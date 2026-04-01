@@ -1,0 +1,18 @@
+{
+    "actionGroupSummaries": [
+        {
+            "actionGroupId": "JSPIBFWKYD",
+            "actionGroupName": "BuildandRunAthenaQueryActionGroup",
+            "actionGroupState": "ENABLED",
+            "description": "Execute Athena queries against S3-backed databases",
+            "updatedAt": "2026-03-17T18:23:52.977049+00:00"
+        },
+        {
+            "actionGroupId": "S6GNKBUY6P",
+            "actionGroupName": "ClockandCalendarActionGroup",
+            "actionGroupState": "ENABLED",
+            "description": "This action group will get today's date by calling lambda function",
+            "updatedAt": "2026-03-17T18:23:50.125720+00:00"
+        }
+    ]
+}
